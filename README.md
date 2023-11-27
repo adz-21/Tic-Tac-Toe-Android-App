@@ -23,7 +23,10 @@ All images included below : (except splash screen)
 
 ## Screen Recording of the App in action : 
 
-https://github.com/adz-21/Tic-Tac-Toe-Android-App/assets/106603065/96e06343-89bb-4d03-8560-163f23ef6a71
+https://github.com/adz-21/Tic-Tac-Toe-Android-App/assets/106603065/37d9234d-9660-4da0-879d-60dc2fa63ed4
+
+
+
 
 **So basically, on opening the app, you come across a splash screen - with text animation (done using YoYo Class)**              
                                         
